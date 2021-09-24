@@ -1,0 +1,1 @@
+Holograms are png no more than 256 px in any dimension.

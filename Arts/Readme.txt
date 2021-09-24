@@ -1,0 +1,1 @@
+Arts must be jpg 624x624

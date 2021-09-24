@@ -1,0 +1,1 @@
+You can put a jpg or mp4 for animated background.
